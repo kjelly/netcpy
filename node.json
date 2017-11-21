@@ -1,0 +1,17 @@
+ {
+     "nodes": [
+         {
+             "target_ip": "172.22.104.12",
+             "user": "vagrant",
+             "key_path": "/home/user/.ssh/id_rsa",
+             "kind": "eth",
+
+             "ifnames": ["eth1"],
+             "ip4": "172.22.104.12",
+             "netmask4": "255.255.255.0",
+             "gateway4": "172.22.104.254",
+             "mode": "0",
+             "onboot": "yes"
+         }
+     ]
+ }
